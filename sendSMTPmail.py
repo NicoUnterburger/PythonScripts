@@ -4,7 +4,7 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 msg = MIMEMultipart()
 
-usernmae = "user@name.de"
+username = "user@name.de"
 password = "password"
 mailFrom = "mailfrom@provider.de"
 mailTo = "mailto@provider.de"
